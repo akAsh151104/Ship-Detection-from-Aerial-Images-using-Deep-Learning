@@ -1,0 +1,26 @@
+path: /home/amit/DEEP_LEARNING_PROJECT/custom_dataset
+train: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/train/images
+val: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/val/images
+test: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/test/images
+nc: 1
+names:
+  0: ship
+anchors:
+- - 4
+  - 6
+  - 8
+  - 10
+  - 12
+  - 14
+- - 18
+  - 22
+  - 28
+  - 32
+  - 40
+  - 44
+- - 56
+  - 64
+  - 80
+  - 96
+  - 128
+  - 144

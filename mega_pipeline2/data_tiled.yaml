@@ -1,0 +1,7 @@
+path: /home/amit/DEEP_LEARNING_PROJECT/custom_dataset
+train: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/train/images
+val: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/val/images
+test: /home/amit/DEEP_LEARNING_PROJECT/mega_pipeline2/tiled_dataset2/test/images
+nc: 1
+names:
+  0: ship
